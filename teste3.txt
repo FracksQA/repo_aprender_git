@@ -1,1 +1,3 @@
 arquivo teste para fazer espelho do git.
+
+adicionado esta linha para testar alterações no espelho.
